@@ -107,6 +107,11 @@ hr{
 	color:rgba(255, 0, 0, 0.8);
 	display: inline-block;
 }
+.post:hover{
+	
+	background:rgba(173, 216, 230, 0.5);
+
+}
 .post h3{
 	font-size: 1.35rem; 
 }
